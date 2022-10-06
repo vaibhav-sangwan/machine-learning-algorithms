@@ -9,8 +9,8 @@ This repository contains really easy to grasp implementation of Machine Learning
 	- Neural Networks
 	- Logistic Regression
   
-	 Regression Algorithms
-	 - Linear Regression
+	Regression Algorithms
+	- Linear Regression
  
  	Optimization algorithms
 	- Gradient Descent
