@@ -2,15 +2,15 @@
 
 This repository contains really easy to grasp implementation of Machine Learning algorithms such as:
 
-Classification Algorithms
+	Classification Algorithms
 	- Decision Tree
 	- K Nearest Neighbors
 	- Naive Bayes
 	- Neural Networks
 	- Logistic Regression
   
- Regression Algorithms
-  - Linear Regression
+	 Regression Algorithms
+	 - Linear Regression
  
- Optimization algorithms
+ 	Optimization algorithms
 	- Gradient Descent
